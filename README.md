@@ -14,3 +14,6 @@ My first read on my journey into AI is on [Hacker Earth](http://blog.hackerearth
   Then building a bot is the next thing. That also seems like kids stuff, a little tricky but kids stuff
   If you intend to follow along with PHP, you can learn how to create a slack bot [here](https://www.twilio.com/blog/2017/02/how-to-build-a-slack-bot-using-php.html)
   
+Today 12/16/2017 (Friday, 17 of November 2017)
+I have written a Tic-Tac-Toe in PHP and CodeIgniter [here](https://github.com/Bear-nana/Tic-Tac-Toe). You can look at it and follow trough if you understand codeigniter.
+  
